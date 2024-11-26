@@ -1,15 +1,14 @@
-i craete a todo app using reactjs css and html, and its name SimpleTodo, please write a description for github
-Here's a concise and engaging description for your GitHub repository:
 
-SimpleTodo
+
+<h1>SimpleTodo</h1>
 SimpleTodo is a sleek and user-friendly to-do list application built with React.js, CSS, and HTML. This app helps you stay organized by allowing you to create, manage, and delete tasks effortlessly. Perfect for boosting your productivity and keeping track of your daily tasks in a simple and efficient way.
 
-Features
-Add Tasks: Easily add tasks with a straightforward input interface.
+Features 
+<h3>Add Tasks:</h3> Easily add tasks with a straightforward input interface.
 
-Delete Tasks: Remove completed or unnecessary tasks with a single click.
+<h3>Delete Tasks:</h3> Remove completed or unnecessary tasks with a single click.
 
-Responsive Design: A clean, responsive layout that looks great on any device.
+<h3>Responsive Design:</h3> A clean, responsive layout that looks great on any device.
 
 Getting Started
 To run this project locally, follow these steps:
