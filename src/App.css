@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Honk&display=swap');
+.App {
+  text-align: center;
+  padding-top: 50px;
+  height: 100vh;
+  width: 100vw;
+}
+.list > li {
+  list-style-type: none;
+  font-weight: 400;
+}
+
+.todoInput {
+  background-color: #3D3BF3;
+  padding: 20px;
+  border: 4px solid #fff;
+}
+.todoInput > h1 {
+  color: #fff;
+  font-family: "Honk", system-ui;
+  font-optical-sizing: auto;
+  font-weight: 800;
+  font-style: normal;
+  font-variation-settings:
+    "MORF" 15,
+    "SHLN" 50;
+    font-size: 55px;
+}
+.custom-button {
+  background-color: #3e92ee !important;
+  color: white;
+}
+.custom-button:hover {
+  background-color: #fff;
+}
+.custom-button2
+{
+  background-color: #3e92ee !important;
+}
